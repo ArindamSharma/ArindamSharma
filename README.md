@@ -1,6 +1,6 @@
 ## Arindam Sharma 👋
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bkkothari2255/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arindamsharma18/) 
 
 * Student [@IIITDM KAncheepurem](iiitdm.ac.in)
 * Intern [@Vassar Labs](vassarlabs.com)
@@ -9,7 +9,7 @@
     * Maching Learning
     * Software Developement
     * Data Structure
-    
+
 <!-- [![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArindamSharma)](https://github.com/ArindamSharma/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArindamSharma&repo=Image-Processing)](https://github.com/ArindamSharma/github-readme-stats) -->
