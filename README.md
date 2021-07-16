@@ -2,8 +2,8 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arindamsharma18/) 
 
-* Student [@IIITDM Kancheepurem](iiitdm.ac.in)
-* Intern [@Vassar Labs](vassarlabs.com)
+* Student [@IIITDM Kancheepurem](https://iiitdm.ac.in)
+* Intern [@Vassar Labs](https://vassarlabs.com)
 
 * Interset Areas:
     * Maching Learning
