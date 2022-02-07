@@ -1,6 +1,4 @@
-## Arindam Sharma 👋
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arindamsharma18/) 
+# Arindam Sharma 
 
 * Student [@IIITDM Kancheepurem](iiitdm.ac.in)
 * Intern [@Vassar Labs](vassarlabs.com)
@@ -9,7 +7,25 @@
     * Maching Learning
     * Software Developement
     * Data Structure
+# Contact 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arindamsharma18/) 
 
+
+# Technologies
+
+<img src="./img/python.png" alt="Python" style="width:50px;"/>
+<img src="./img/c++.png" alt="C++" style="width:50px;"/>
+<img src="./img/C.png" alt="C" style="width:60px;"/>
+<img src="./img/Java2.png" alt="Java" style="width:100px;"/>
+<img src="./img/vscode.png" alt="VScode" style="width:50px;"/>
+<img src="./img/javascript.png" alt="Javascript" style="width:50px;"/>
+<img src="./img/nodejs.png" alt="Nodejs" style="width:50px;"/>
+<img src="./img/maven.png" alt="Maven" style="width:150px;"/>
+<img src="./img/cassandra.png" alt="Cassandra" style="width:90px;"/>
+<img src="./img/mysql.png" alt="Mysql" style="width:100px;"/>
+<img src="./img/postman.png" alt="Postman" style="width:50px;"/>
+
+# Stats
 [![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArindamSharma)](https://github.com/ArindamSharma/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArindamSharma&repo=Image-Processing)](https://github.com/ArindamSharma/github-readme-stats)
