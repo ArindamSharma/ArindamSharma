@@ -54,6 +54,7 @@
 <a href="#"><img src="./img/skill/xd.png" alt="AdobeXD" style="height:50px;"/></a>
 <a href="#"><img src="./img/skill/figma.png" alt="Figma" style="height:50px;"/></a>
 <a href="#"><img src="./img/skill/flask.png" alt="Flask" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/expressjs.png" alt="Expressjs" style="height:50px;"/></a>
 
 # Stats
 [![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArindamSharma)](https://github.com/ArindamSharma/github-readme-stats)
