@@ -11,46 +11,49 @@
 # Contact 
 <!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arindamsharma18/)  -->
 
-<a href="https://www.linkedin.com/in/arindamsharma18/"><img src="./img/contact/linkedin.png" alt="Python" style="width:50px;"/></a> 
-<a href="mailto:arindamsharma1998@gmail.com"><img src="./img/contact/gmail.png" alt="Python" style="width:90px;"/></a>
+<a href="https://www.linkedin.com/in/arindamsharma18/"><img src="./img/contact/linkedin.png" alt="Python" style="height:50px;"/></a> 
+<a href="mailto:arindamsharma1998@gmail.com"><img src="./img/contact/gmail.png" alt="Python" style="height:50px;"/></a>
 
 ## Coding Platforms
 
-<a href="https://www.hackerrank.com/ArindamSharma"><img src="./img/contact/hackerrank.png" alt="Python" style="width:50px;"/></a> 
-<a href="https://www.hackerearth.com/@ArindamSharma"><img src="./img/contact/hackerearth.png" alt="Python" style="width:50px;"/></a> 
-<a href="https://leetcode.com/ArindamSharma/"><img src="./img/contact/leetcode_black.png" alt="Python" style="width:50px;"/></a> 
-<a href="https://github.com/ArindamSharma"><img src="./img/contact/github.png" alt="Python" style="width:50px;"/></a> 
-<a href="https://www.codechef.com/users/arindam_s/"><img src="./img/contact/codechef.png" alt="Python" style="width:50px;"/></a> 
+<a href="https://www.hackerrank.com/ArindamSharma"><img src="./img/contact/hackerrank.png" alt="Python" style="height:50px;"/></a> 
+<a href="https://www.hackerearth.com/@ArindamSharma"><img src="./img/contact/hackerearth.png" alt="Python" style="height:50px;"/></a> 
+<a href="https://leetcode.com/ArindamSharma/"><img src="./img/contact/leetcode_black.png" alt="Python" style="height:50px;"/></a> 
+<a href="https://github.com/ArindamSharma"><img src="./img/contact/github.png" alt="Python" style="height:50px;"/></a> 
+<a href="https://www.codechef.com/users/arindam_s/"><img src="./img/contact/codechef.png" alt="Python" style="height:50px;"/></a> 
 
 ## Social Media
 
-<a href="https://www.instagram.com/arindam__s/"><img src="./img/contact/insta.png" alt="Python" style="width:50px;"/></a>
-<a href="https://twitter.com/Arindam10400450"><img src="./img/contact/twitter.png" alt="Python" style="width:50px;"/></a>
-<a href="https://www.facebook.com/profile.php?id=100016351571912"><img src="./img/contact/facebook.png" alt="Python" style="width:50px;"/></a>
+<a href="https://www.instagram.com/arindam__s/"><img src="./img/contact/insta.png" alt="Python" style="height:50px;"/></a>
+<a href="https://twitter.com/Arindam10400450"><img src="./img/contact/twitter.png" alt="Python" style="height:50px;"/></a>
+<a href="https://www.facebook.com/profile.php?id=100016351571912"><img src="./img/contact/facebook.png" alt="Python" style="height:50px;"/></a>
 
 # Technologies
 
 ## Programming Languages
 
-<a href="#"><img src="./img/skill/python.png" alt="Python" style="width:50px;"/></a>
-<a href="#"><img src="./img/skill/c++.png" alt="C++" style="width:50px;"/></a>
-<a href="#"><img src="./img/skill/c.png" alt="C" style="width:60px;"/></a>
-<a href="#"><img src="./img/skill/java2.png" alt="Java" style="width:100px;"/></a>
-<a href="#"><img src="./img/skill/javascript.png" alt="Javascript" style="width:50px;"/></a>
-<a href="#"><img src="./img/skill/go.png" alt="Go" style="width:100px;"/></a>
+<a href="#"><img src="./img/skill/python.png" alt="Python" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/c++.png" alt="C++" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/c.png" alt="C" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/java2.png" alt="Java" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/javascript.png" alt="Javascript" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/html.png" alt="HTML" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/css.png" alt="CSS" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/go.png" alt="Go" style="height:50px;"/></a>
 
 ## DataBase Tools
-<a href="#"><img src="./img/skill/cassandra.png" alt="Cassandra" style="width:90px;"/></a>
-<a href="#"><img src="./img/skill/mysql.png" alt="Mysql" style="width:100px;"/></a>
+<a href="#"><img src="./img/skill/cassandra.png" alt="Cassandra" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/mysql.png" alt="Mysql" style="height:50px;"/></a>
 
 ## Tools / Software
 
-<a href="#"><img src="./img/skill/vscode.png" alt="VScode" style="width:50px;"/></a>
-<a href="#"><img src="./img/skill/nodejs.png" alt="Nodejs" style="width:50px;"/></a>
-<a href="#"><img src="./img/skill/maven.png" alt="Maven" style="width:150px;"/></a>
-<a href="#"><img src="./img/skill/postman.png" alt="Postman" style="width:50px;"/></a>
-<a href="#"><img src="./img/skill/xd.png" alt="AdobeXD" style="width:50px;"/></a>
-<a href="#"><img src="./img/skill/figma.png" alt="Figma" style="width:50px;"/></a>
+<a href="#"><img src="./img/skill/vscode.png" alt="VScode" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/nodejs.png" alt="Nodejs" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/maven.png" alt="Maven" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/postman.png" alt="Postman" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/xd.png" alt="AdobeXD" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/figma.png" alt="Figma" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/flask.png" alt="Flask" style="height:50px;"/></a>
 
 # Stats
 [![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArindamSharma)](https://github.com/ArindamSharma/github-readme-stats)
