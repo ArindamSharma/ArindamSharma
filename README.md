@@ -18,7 +18,7 @@
 
 <a href="https://www.hackerrank.com/ArindamSharma"><img src="./img/contact/hackerrank.png" alt="Python" style="height:50px;"/></a> 
 <a href="https://www.hackerearth.com/@ArindamSharma"><img src="./img/contact/hackerearth.png" alt="Python" style="height:50px;"/></a> 
-<a href="https://leetcode.com/ArindamSharma/"><img src="./img/contact/leetcode_black.png" alt="Python" style="height:50px;"/></a> 
+<a href="https://leetcode.com/ArindamSharma/"><img src="./img/contact/leetcode.png" alt="Python" style="height:50px;"/></a> 
 <a href="https://github.com/ArindamSharma"><img src="./img/contact/github.png" alt="Python" style="height:50px;"/></a> 
 <a href="https://www.codechef.com/users/arindam_s/"><img src="./img/contact/codechef.png" alt="Python" style="height:50px;"/></a> 
 
