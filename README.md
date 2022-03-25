@@ -16,17 +16,17 @@
 
 ## Coding Platforms
 
-<a href="https://www.hackerrank.com/ArindamSharma"><img src="./img/contact/hackerrank.png" alt="Python" style="height:50px;"/></a> 
-<a href="https://www.hackerearth.com/@ArindamSharma"><img src="./img/contact/hackerearth.png" alt="Python" style="height:50px;"/></a> 
-<a href="https://leetcode.com/ArindamSharma/"><img src="./img/contact/leetcode.png" alt="Python" style="height:50px;"/></a> 
-<a href="https://github.com/ArindamSharma"><img src="./img/contact/github.png" alt="Python" style="height:50px;"/></a> 
-<a href="https://www.codechef.com/users/arindam_s/"><img src="./img/contact/codechef.png" alt="Python" style="height:50px;"/></a> 
+<a href="https://www.hackerrank.com/ArindamSharma"><img src="./img/contact/hackerrank.png" alt="hackerrank" style="height:50px;"/></a> 
+<a href="https://www.hackerearth.com/@ArindamSharma"><img src="./img/contact/hackerearth.png" alt="hackerearth" style="height:50px;"/></a> 
+<a href="https://leetcode.com/ArindamSharma/"><img src="./img/contact/leetcode.png" alt="leetcode" style="height:50px;"/></a> 
+<a href="https://github.com/ArindamSharma"><img src="./img/contact/github.png" alt="girhub" style="height:50px;"/></a> 
+<a href="https://www.codechef.com/users/arindam_s/"><img src="./img/contact/codechef.png" alt="codechef" style="height:50px;"/></a> 
 
 ## Social Media
 
-<a href="https://www.instagram.com/arindam__s/"><img src="./img/contact/instagram.png" alt="Python" style="height:50px;"/></a>
-<a href="https://twitter.com/Arindam10400450"><img src="./img/contact/twitter.png" alt="Python" style="height:50px;"/></a>
-<a href="https://www.facebook.com/profile.php?id=100016351571912"><img src="./img/contact/facebook.png" alt="Python" style="height:50px;"/></a>
+<a href="https://www.instagram.com/arindam__s/"><img src="./img/contact/instagram.png" alt="instagram" style="height:50px;"/></a>
+<a href="https://twitter.com/Arindam10400450"><img src="./img/contact/twitter.png" alt="twitter" style="height:50px;"/></a>
+<a href="https://www.facebook.com/profile.php?id=100016351571912"><img src="./img/contact/facebook.png" alt="facebook" style="height:50px;"/></a>
 
 # Technologies
 
