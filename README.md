@@ -24,7 +24,7 @@
 
 ## Social Media
 
-<a href="https://www.instagram.com/arindam__s/"><img src="./img/contact/insta.png" alt="Python" style="height:50px;"/></a>
+<a href="https://www.instagram.com/arindam__s/"><img src="./img/contact/instagram.png" alt="Python" style="height:50px;"/></a>
 <a href="https://twitter.com/Arindam10400450"><img src="./img/contact/twitter.png" alt="Python" style="height:50px;"/></a>
 <a href="https://www.facebook.com/profile.php?id=100016351571912"><img src="./img/contact/facebook.png" alt="Python" style="height:50px;"/></a>
 
