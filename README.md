@@ -1,7 +1,8 @@
 # Arindam Sharma 
 
 * Student [@IIITDM Kancheepurem](https://iiitdm.ac.in)
-* Intern [@Vassar Labs](https://vassarlabs.com)
+* Intern (May21-Nov21)[@Vassar Labs](https://vassarlabs.com)
+* Intern (May22-Present)[@KLA Tencor](https://kla.com)
 
 * Interset Areas:
     * Maching Learning
