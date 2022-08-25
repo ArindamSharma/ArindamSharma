@@ -7,6 +7,7 @@
 * Interset Areas:
     * Maching Learning
     * Software Developement
+    * Application Development
     * Data Structure
 
 # Contact 
