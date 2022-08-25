@@ -2,7 +2,7 @@
 
 * Student [@IIITDM Kancheepurem](https://iiitdm.ac.in)
 * Intern (May21-Nov21)[@Vassar Labs](https://vassarlabs.com)
-* Intern (May22-Present)[@KLA Tencor](https://kla.com)
+* Intern (May22-Aug22)[@KLA Tencor](https://kla.com)
 
 * Interset Areas:
     * Maching Learning
