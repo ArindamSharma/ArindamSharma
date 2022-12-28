@@ -1,11 +1,11 @@
 # Arindam Sharma 
 
-* Student [@IIITDM Kancheepurem](https://iiitdm.ac.in)
-* Intern (May21-Nov21)[@Vassar Labs](https://vassarlabs.com)
-* Intern (May22-Aug22)[@KLA Tencor](https://kla.com)
+* CSE'22 Grad [@IIITDM Kancheepurem](https://iiitdm.ac.in)
+* Ex-Intern (May21-Nov21)[@Vassar Labs](https://vassarlabs.com)
+* Ex-Intern (May22-Aug22)[@KLA Tencor](https://kla.com)
+* ASE (Nov22-Present)[@KLA Tencor](https://lnw.com)
 
 * Interset Areas:
-    * Maching Learning
     * Software Developement
     * Application Development
     * Data Structure
@@ -60,6 +60,7 @@
 
 # Stats
 [![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArindamSharma)](https://github.com/ArindamSharma/github-readme-stats)
+[![Arindam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arindamsharma&theme=dark)](https://github.com/komalkuru/github-readme-stats)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArindamSharma&repo=Image-Processing)](https://github.com/ArindamSharma/github-readme-stats)
 
