@@ -54,7 +54,7 @@
 <a href="#"><img src="./img/skill/javascript.png" alt="Javascript" style="height:50px;"/></a>
 <a href="#"><img src="./img/skill/html.png" alt="HTML" style="height:50px;"/></a>
 <a href="#"><img src="./img/skill/css.png" alt="CSS" style="height:50px;"/></a>
-<a href="#"><img src="./img/skill/c#.png" alt="C#" style="height:50px;"/></a>
+<a href="#"><img src="./img/skill/cs.png" alt="C#" style="height:50px;"/></a>
 <a href="#"><img src="./img/skill/go.png" alt="Go" style="height:50px;"/></a>
 
 ## DataBase Tools
