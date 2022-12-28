@@ -1,4 +1,4 @@
-# Arindam Sharma 
+# Arindam Sharma ![Profile View Counter](https://komarev.com/ghpvc/?username=arindamsharma)
 
 * CSE'22 Grad [@IIITDM Kancheepurem](https://iiitdm.ac.in)
 * Ex-Intern (May21-Nov21)[@Vassar Labs](https://vassarlabs.com)
@@ -9,6 +9,19 @@
     * Software Developement
     * Application Development
     * Data Structure
+
+# Stats
+[![Arindam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arindamsharma&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats/tree/master/themes)
+
+[![Arindam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arindamsharma&theme=blueberry_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamSharma&layout=compact)](https://github.com/ArindamSharma/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamSharma&langs_count=8)](https://github.com/ArindamSharma/github-readme-stats) -->
+
+<!-- # Github Contributers
+![GitHub Contributors Image](https://contrib.rocks/image?repo=arindamsharma/evolution-using-selection)
+ -->
 
 # Contact 
 <!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arindamsharma18/)  -->
@@ -58,21 +71,6 @@
 <a href="#"><img src="./img/skill/flask.png" alt="Flask" style="height:50px;"/></a>
 <a href="#"><img src="./img/skill/expressjs.png" alt="Expressjs" style="height:50px;"/></a>
 
-# Stats
-[![Arindam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArindamSharma)](https://github.com/ArindamSharma/github-readme-stats)
-[![Arindam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arindamsharma&theme=dark)](https://github.com/komalkuru/github-readme-stats)
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArindamSharma&repo=Image-Processing)](https://github.com/ArindamSharma/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArindamSharma&show_icons=true&theme=dark) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamSharma&layout=compact)](https://github.com/ArindamSharma/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArindamSharma&langs_count=8)](https://github.com/ArindamSharma/github-readme-stats)
- -->
-
-
 <!--
 **ArindamSharma/ArindamSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -87,3 +85,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
+
+
