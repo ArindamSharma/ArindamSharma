@@ -1,7 +1,7 @@
 # Arindam Sharma ![Profile View Counter](https://komarev.com/ghpvc/?username=arindamsharma)
 
-<a href="https://readyplayer.me/gallery/63ad711bd16b67196c5806d8-E1pFb4jpeg"><img src="https://readyplayerme-photobooth.s3.amazonaws.com/63ad711bd16b67196c5806d8/FB3knH.jpeg" alt="Python" style="height:250px;"/></a> 
-<!-- [![Me](https://readyplayerme-photobooth.s3.amazonaws.com/63ad711bd16b67196c5806d8/FB3knH.jpeg)](https://readyplayer.me/gallery/63ad711bd16b67196c5806d8-E1pFb4jpeg) -->
+<a href="https://readyplayer.me/gallery/63ad711bd16b67196c5806d8-FB3knHjpeg"><img src="https://readyplayerme-photobooth.s3.amazonaws.com/63ad711bd16b67196c5806d8/FB3knH.jpeg" alt="Python" style="height:250px;"/></a> 
+<!-- [![Me](https://readyplayerme-photobooth.s3.amazonaws.com/63ad711bd16b67196c5806d8/FB3knH.jpeg)](https://readyplayer.me/gallery/63ad711bd16b67196c5806d8-FB3knHjpeg) -->
 
 * CSE'22 Grad [@IIITDM Kancheepurem](https://iiitdm.ac.in)
 * Ex-Intern (May21-Nov21)[@Vassar Labs](https://vassarlabs.com)
