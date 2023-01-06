@@ -6,7 +6,7 @@
 * CSE'22 Grad [@IIITDM Kancheepurem](https://iiitdm.ac.in)
 * Ex-Intern (May21-Nov21)[@Vassar Labs](https://vassarlabs.com)
 * Ex-Intern (May22-Aug22)[@KLA Tencor](https://kla.com)
-* ASE (Nov22-Present)[@KLA Tencor](https://lnw.com)
+* ASE (Nov22-Present)[@Light & Wonder (AKA Scientific Games)](https://lnw.com)
 
 * Interset Areas:
     * Software Developement
