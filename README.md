@@ -1,6 +1,8 @@
 # Arindam Sharma ![Profile View Counter](https://komarev.com/ghpvc/?username=arindamsharma)
 
-<a href="https://readyplayer.me/gallery/63ad711bd16b67196c5806d8"><img src="https://api.readyplayer.me/v1/avatars/63ad711bd16b67196c5806d8.png" alt="Me" style="height:250px;"/></a> 
+
+<a href="https://readyplayer.me/gallery/63ad711bd16b67196c5806d8-bMb5IHjpeg"><img src="./img/me/me2.0.png" alt="Me" style="height:250px;"/></a> 
+<!-- <a href="https://readyplayer.me/gallery/63ad711bd16b67196c5806d8"><img src="https://api.readyplayer.me/v1/avatars/63ad711bd16b67196c5806d8.png" alt="Me" style="height:250px;"/></a>  -->
 <!-- [![Me](https://api.readyplayer.me/v1/avatars/63ad711bd16b67196c5806d8.png)](https://readyplayer.me/gallery/63ad711bd16b67196c5806d8) -->
 
 * CSE'22 Grad [@IIITDM Kancheepurem](https://iiitdm.ac.in)
