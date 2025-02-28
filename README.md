@@ -51,7 +51,7 @@ I've had the opportunity to grow my skills at:
   </tr>
   <tr>
     <td><strong><a href="https://lnw.com">Light & Wonder</a></strong></td>
-    <td>Senior Associate Software Engineer</td>
+    <td>Software Engineer</td>
   </tr>
 </table>
 
@@ -68,11 +68,13 @@ Tackling challenges and building impactful solutions.
        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff" alt="Java" />
        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
+       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
     </td>
   </tr>
   <tr>
     <td><strong>Web Development Frameworks & Tools</strong></td>
     <td>
+       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" />
        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS" />
@@ -96,6 +98,7 @@ Tackling challenges and building impactful solutions.
     <td><strong>Tools / Software</strong></td>
     <td>
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudio&logoColor=ffffff" alt="VSCode" />
+       <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android" />
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/Adobe_XD-FF26B6?style=flat-square&logo=adobexd&logoColor=white" alt="Adobe XD" />
