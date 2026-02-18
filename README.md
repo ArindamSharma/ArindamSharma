@@ -1,36 +1,23 @@
-# Hi, Everyone! 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=arindamsharma)
+# Greatings, Everyone! 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=arindamsharma)
 
 <table>
   <tr>
     <td>
        <a href="https://readyplayer.me/gallery/63ad711bd16b67196c5806d8-bMb5IHjpeg">
-           <img src="./img/me/me2.0.png" alt="Me" style="height:100px;"/>
+           <img src="./img/me/me2.0.png" alt="Me" style="height:200px;"/>
        </a> 
     </td>
     <td>
-      I’m Arindam. A dedicated developer with a passion for transforming ideas into reality.
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=arindamsharma&theme=blueberry_duo" alt="Arindam's GitHub Streak" />
+</a>
+      
    </td>
   </tr>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=arindamsharma&theme=blueberry" alt="Arindam's GitHub Stats" />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arindamsharma&theme=blueberry_duo" alt="Arindam's GitHub Streak" />
-</a>
-
-<!-- 
-<a href="https://github-profile-trophy.vercel.app/?username=arindamsharma&theme=darkhub">
-    <img src="https://github-profile-trophy.vercel.app/?username=arindamsharma&theme=darkhub" alt="GitHub Trophies" />
-</a>
--->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arindamsharma&layout=compact&theme=blueberry">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindamsharma&layout=compact&theme=blueberry" alt="Top Languages" />
-</a>
-
-<!--
--->
+I’m Arindam. A dedicated developer with a passion for transforming ideas into reality.
+ 
 
 ## 🌟 My Journey
 
